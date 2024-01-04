@@ -1,9 +1,11 @@
 <?php
 
-require __DIR__ . "/../vendor/autoload.php";
+require_once("vendor/autoload.php");
 
-$htmlChars = new \crocciari\htmlChars\HtmlChars();
+use Crocciari\HtmlChars;
 
-$code = $htmlChars->getString("Teste");
+$html = new HtmlChars;
 
-var_dump($code);
+$result = $html->getString("Hello World 2024");
+
+var_dump($result);
