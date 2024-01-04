@@ -1,12 +1,15 @@
 {
     "name": "crocciari/htmlchars",
     "description": "The HtmlChars class converts letters and numbers into their respective HTML entities.",
+    "version": "1.0.0",
     "license": "MIT",
     "keywords": [
-        "Crocciari Code",
-        "Céu Azul Code",
-        "HTML Special Chars",
-        "Caracteres Especiais"
+        "Crocciari",
+        "CeuAzulCode",
+        "HTML",
+        "SpecialChars",
+        "Caracteres",
+        "Especiais"
       ],    
     "authors": [
         {
