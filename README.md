@@ -7,7 +7,7 @@ composer require crocciari/htmlchars
 ```
 
 ## This basic example 
-```
+```php
 <?php
 
 require_once("vendor/autoload.php");
