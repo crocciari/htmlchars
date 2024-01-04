@@ -1,7 +1,7 @@
 {
     "name": "crocciari/htmlchars",
     "description": "The HtmlChars class converts letters and numbers into their respective HTML entities.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "keywords": [
         "Crocciari",
